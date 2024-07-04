@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lin-lucas
+- 👋 Hi, I’m lin-lucas
 - 👀 I’m interested in python and HTML
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
